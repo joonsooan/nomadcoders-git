@@ -4,3 +4,4 @@ Integer sit amet lorem magna.
 Nulla lacinia dui eget est convallis, eget venenatis libero hendrerit. 
 Maecenas eget eros sed ligula semper interdum.
 
+Hyrule was saved from Ganon by the hero, Link.
